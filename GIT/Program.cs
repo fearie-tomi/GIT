@@ -10,6 +10,7 @@ namespace GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("elso git xd eki");
         }
     }
 }
